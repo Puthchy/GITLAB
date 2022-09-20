@@ -34,7 +34,4 @@ void main()
       scanf("%d", &SearchID);
   }
   printf("Bye Bye Bye BOO!\n");
-=======
-  printf("Bye Bye Bye BOO!\n"); 
->>>>>>> 691b178fd534c88e71cbbc4464913dbc1e8c67e4
 }
