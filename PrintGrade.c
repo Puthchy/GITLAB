@@ -33,7 +33,6 @@ void main()
 
       scanf("%d", &SearchID);
   }
-<<<<<<< HEAD
   printf("Bye Bye Bye BOO!\n");
 =======
   printf("Bye Bye Bye BOO!\n"); 
